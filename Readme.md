@@ -1,11 +1,9 @@
 # pythonの勉強
 
 ## コーディング規則
-**クラス** :upper
-
-**関数、メソッド、変数** :rower & snake
-
-**定数** :uppper & snake
+ **クラス** :upper
+ **関数、メソッド、変数** :rower & snake
+ **定数** :uppper & snake
 
 
 ## 二重アンダースコア変数について
